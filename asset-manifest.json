@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clickyfriends/static/css/main.807cd362.chunk.css",
+    "main.js": "/clickyfriends/static/js/main.271fd74b.chunk.js",
+    "main.js.map": "/clickyfriends/static/js/main.271fd74b.chunk.js.map",
+    "runtime~main.js": "/clickyfriends/static/js/runtime~main.7c014ffc.js",
+    "runtime~main.js.map": "/clickyfriends/static/js/runtime~main.7c014ffc.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/clickyfriends/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/clickyfriends/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/clickyfriends/index.html",
+    "precache-manifest.c15054d6746eb04bdc22759304cc9308.js": "/clickyfriends/precache-manifest.c15054d6746eb04bdc22759304cc9308.js",
+    "service-worker.js": "/clickyfriends/service-worker.js",
+    "static/css/main.807cd362.chunk.css.map": "/clickyfriends/static/css/main.807cd362.chunk.css.map",
+    "static/media/5874.jpg": "/clickyfriends/static/media/5874.f2e8e31b.jpg",
+    "static/media/durham-glas.jpg": "/clickyfriends/static/media/durham-glas.7f632a66.jpg",
+    "static/media/sillly.jpg": "/clickyfriends/static/media/sillly.8793e40c.jpg"
+  }
+}
